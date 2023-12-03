@@ -5,7 +5,7 @@
 **SCREENSHOTS** 
 
 **Dashboard**
-<img src="https://i.ibb.co/D4T0z6T/dashboard.png" alt="dashboard" border="0">
+<img src="https://drive.google.com/file/d/1FwlZlpa67Q_A2j3Axp9cwaEqsuiPWZLt/view?usp=sharing" alt="dashboard" border="0">
 
 **Login**
 <img src="https://i.ibb.co/Rh1Bfwk/login.png" alt="login" border="0">
